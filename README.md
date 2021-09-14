@@ -17,7 +17,7 @@
   <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="bia-gif" src="https://i.picasion.com/pic91/6e7dbd34a784e3c6fd18dc9b35eae70b.gif">
+  <img height= "150em" align="right" alt="bia-gif" src="https://i.picasion.com/pic91/6e7dbd34a784e3c6fd18dc9b35eae70b.gif">
 </div>
 
   ##
