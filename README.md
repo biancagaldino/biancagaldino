@@ -2,7 +2,6 @@
 
 - 🔭 Faço estágio na área de suporte
 - 🌱 Estudando analise e desenvolvimento de sistemas / SQL
-- 📫 Contate-me no e-mail: biancagaldino03@gmail.com
 - 😄 Pronouns: ela/dela
 
  <div>
