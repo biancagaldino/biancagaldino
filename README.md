@@ -7,8 +7,8 @@
 
  <div>
   <a href="https://github.com/biancagaldino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=biancagaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancagaldino&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=biancagaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancagaldino&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height= "150em" align="right" alt="bia-gif" src="https://i.picasion.com/pic91/6e7dbd34a784e3c6fd18dc9b35eae70b.gif">
+  <img height= "120em" align="right" alt="bia-gif" src="https://i.picasion.com/pic91/6e7dbd34a784e3c6fd18dc9b35eae70b.gif">
 </div>
 
   ##
