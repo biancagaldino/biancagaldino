@@ -1,14 +1,14 @@
-### Olá! Eu sou a Bianca Galdino...
+### Oii! Eu sou a Bianca Galdino...
 
-- 🔭 Fazendo estágio na área de suporte
+- 🔭 Faço estágio na área de suporte
 - 🌱 Estudando analise e desenvolvimento de sistemas / SQL
 - 📫 Contate-me no e-mail: biancagaldino03@gmail.com
 - 😄 Pronouns: ela/dela
 
  <div>
   <a href="https://github.com/biancagaldino">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=biancagaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancagaldino&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biancagaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancagaldino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -28,5 +28,4 @@
   <a href= "https://www.linkedin.com/in/bianca-galdino-2452261b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/biancagaldino/biancagaldino/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
