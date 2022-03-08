@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Bianca Galdino...
 
-- 🔭 Faço estágio na área de suporte
-- 🌱 Estudando analise e desenvolvimento de sistemas / SQL
+- 🔭 Trabalho como analista de suporte
+- 🌱 Estou estudando analise e desenvolvimento de sistemas / SQL
 - 😄 Pronouns: ela/dela
 
  <div>
