@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Bianca Galdino...
 
-- 🔭 Trabalho como analista de suporte
+- 🔭 Trabalho como Analista de Suporte Junior
 - 🌱 Estou estudando analise e desenvolvimento de sistemas / SQL
 - 😄 Pronouns: ela/dela
 
