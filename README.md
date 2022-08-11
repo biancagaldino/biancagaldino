@@ -15,7 +15,7 @@
   <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bia-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="bia-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img height= "120em" align="right" alt="bia-gif" src="https://i.picasion.com/pic91/6e7dbd34a784e3c6fd18dc9b35eae70b.gif">
+  <img height= "120px" align="right" alt="bia-gif" src="https://i.picasion.com/pic91/6e7dbd34a784e3c6fd18dc9b35eae70b.gif">
 </div>
 
   ##
